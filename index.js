@@ -5,7 +5,7 @@ const port = 3000;
 
 // Define a route
 app.get('/', (req, res) => {
-res.send('Congratulations HHLD Folks - we are in ECS Demo!');
+res.send('Congratulations HHLD Folks - we are in ECS Demo version 2 yahhhhh!');
 });
 
 
